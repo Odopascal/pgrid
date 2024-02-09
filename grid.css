@@ -1,0 +1,9 @@
+.griditem {
+    width: 0;
+    border: 10px;
+    background-color: blueviolet;
+    color: blue;
+}
+.gridcontainer{
+    display: grid;
+}
